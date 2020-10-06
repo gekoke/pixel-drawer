@@ -17,9 +17,9 @@
 
     --dock-button-font: "Titillium Web";
     --dock-button-font-size: 1.2rem;
-    --dock-background-color: rgb(0, 0, 0);
+    --dock-background-color: rgb(134, 216, 162);
     --dock-button-color: rgb(76, 141, 76);
-    --dock-button-selected-color: rgb(106, 173, 106);
+    --dock-button-selected-color: #6aad6a;
 
     --footer-font: "Titillium Web";
     --footer-font-size: 80%;
